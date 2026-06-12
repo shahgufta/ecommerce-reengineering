@@ -70,10 +70,10 @@ $zones_query_raw = "SELECT ... where a.geo_zone_id = "
 ## 📊 Architecture Diagrams
 
 ### 1️⃣ Frontend Sitemap
-![daigrams](diagrams/01_Sitemap_Frontend.png)
+![Sitemap](./diagrams/01_Sitemap_Frontend.png)
 
 ### 2️⃣ Full System Architecture
-![Architecture](diagrams/02_System_Architecture.png)
+![Architecture](diagrams/02_System_Architecture.PNG)
 
 ### 3️⃣ Database ER Diagram
 ![ER Diagram](diagrams/03_ER_Diagram.png)
